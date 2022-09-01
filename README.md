@@ -10,7 +10,7 @@ The video shows a course being created in the Browser writing mode. Things obvio
 
 We're writing this course in a single file, but you can write in multiple text files if you want to!
 
-If you are using the GiyHub or Dropbox writing mode, your text files all need to be saved in the `manuscript` folder. If you do create muliple files, make sure to list all the filenames, in the order you want them to appear, in the Book.txt file.
+If you are using the GitHub or Dropbox writing mode, your text files all need to be saved in the `manuscript` folder. If you do create muliple files, make sure to list all the filenames, in the order you want them to appear, in the Book.txt file.
 
 If you ever have any questions or run into any issues, please email the team at hello@leanpub.com, and mention "Leanpub Academy Support Request" in the subject line. Including a link to your course in the email will really help speed things up!
 
